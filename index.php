@@ -77,6 +77,47 @@
 		    <area data-toggle="modal" data-target="#myModal41" coords="1648,1265,2446,1639" shape="rect">
 		    <area data-toggle="modal" data-target="#myModal42" coords="1648,1696,2383,2135" shape="rect">
 		</map>
+		
+		<img src="assets/images/ebook11.jpg" usemap="#image-map9">
+		<map name="image-map9">
+		    <area data-toggle="modal" data-target="#myModal43" alt="" title="" coords="350,436,1048,744" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal44" alt="" title="" coords="363,763,1079,1083" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal45" alt="" title="" coords="360,1121,1129,1407" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal46" alt="" title="" coords="360,1438,1365,1809" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal47" alt="" title="" coords="350,1834,1641,2201" shape="rect">
+		</map>
+		
+		<img src="assets/images/ebook12.jpg" usemap="#image-map10">
+		<map name="image-map10">
+		    <area data-toggle="modal" data-target="#myModal48" alt="" title="" coords="350,414,1312,754" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal49" alt="" title="" coords="353,766,1070,1061" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal50" alt="" title="" coords="328,1080,1088,1394" shape="rect">
+		</map>
+		
+		<img src="assets/images/ebook13.jpg" usemap="#image-map11">
+		<map name="image-map11">
+		    <area data-toggle="modal" data-target="#myModal51" alt="" title="" coords="347,273,1035,484" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal52" alt="" title="" coords="347,499,1070,810" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal53" alt="" title="" coords="341,832,1296,1108" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal54" alt="" title="" coords="350,1133,1290,1469" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal55" alt="" title="" coords="350,1498,2339,1702" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal56" alt="" title="" coords="344,1730,1588,2135" shape="rect">
+		</map>
+
+		<img src="assets/images/ebook14.jpg" usemap="#image-map12">
+		<map name="image-map12">
+		    <area data-toggle="modal" data-target="#myModal57" alt="" title="" coords="350,418,963,948" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal58" alt="" title="" coords="347,1360,1044,2047" shape="rect">
+		</map>
+
+		<img src="assets/images/ebook15.jpg" usemap="#image-map13">
+		<map name="image-map13">
+		    <area data-toggle="modal" data-target="#myModal59" alt="" title="" coords="394,480,1745,776" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal59" alt="" title="" coords="379,857,1557,1058" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal59" alt="" title="" coords="366,1102,1406,1363" shape="rect">
+		    <area data-toggle="modal" data-target="#myModal59" alt="" title="" coords="369,1648,2050,1956" shape="rect">
+		</map>
+		<img src="assets/images/ebook16.jpg">
 	</section><!-- ebook -->
 
 <?php include 'components/footer.php'; ?>
